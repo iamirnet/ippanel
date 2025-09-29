@@ -1,7 +1,7 @@
 {
     "name": "iamirnet/ippanel",
-    "description": "A PHP wrapper for Samantel",
-    "keywords": ["ippanel", "sms", "api", "soap"],
+    "description": "A PHP wrapper for IPPanel",
+    "keywords": ["ippanel", "sms", "api", "rest"],
     "homepage": "https://php.iamir.net/packages/ippanel",
     "license": "MIT",
     "authors": [
