@@ -1,0 +1,25 @@
+{
+    "name": "iamirnet/ippanel",
+    "description": "A PHP wrapper for Samantel",
+    "keywords": ["ippanel", "sms", "api", "soap"],
+    "homepage": "https://php.iamir.net/packages/ippanel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "iamirnet",
+            "email" : "me@iamir.net",
+            "homepage": "https://iamir.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "iAmirNet\\IPPanel\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "iamirnet/curl": "^2.0"
+    }
+}
